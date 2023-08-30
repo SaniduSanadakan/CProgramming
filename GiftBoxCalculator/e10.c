@@ -29,8 +29,7 @@ int main(){
         printf("You have not gift..\n");
     }
 
-    
-    
+    // hello world
 	return 0;
 		
 }
